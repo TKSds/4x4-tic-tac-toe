@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tictactoe4x4.TicTacToeVariantSpec" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-07-16T11:55:11" hostname="ITEM-AX31249" time="0.009">
+  <properties/>
+  <testcase name="whenPlayAndWholeHorizontalLineThenWinner" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.001"/>
+  <testcase name="whenOccupiedSpaceThenRunTimeException" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.006"/>
+  <testcase name="whenFirstTurnThenX" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="whenPieceOutsideXAxisThenRuntimeException" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="whenPlayAndDiagonalLineFromBottomToTopThenWinner" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="whenPieceOutsideYAxisThenRuntimeException" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="whenPlayAndWholeVerticalLineThenWinner" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="givenXwhenNextTurnThen0" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <testcase name="whenPlayThenNoWinner" classname="tictactoe4x4.TicTacToeVariantSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

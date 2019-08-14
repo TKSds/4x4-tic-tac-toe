@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab21624d-aef7-4c7d-ba6b-3eafb3ffd848" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P0QkWZCzhVn0kCR8yYggJAK7tL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.TicTacToeVariantSpec">
+    <configuration name="TicTacToeVariantSpec" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;tictactoe4x4.TicTacToeVariantSpec&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TicTacToeVariantSpec.whenPlayAndDiagonalLineFromBottomToTopThenWinner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;tictactoe4x4.TicTacToeVariantSpec.whenPlayAndDiagonalLineFromBottomToTopThenWinner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TicTacToeVariantSpec.whenPlayAndWholeHorizontalLineThenWinner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;tictactoe4x4.TicTacToeVariantSpec.whenPlayAndWholeHorizontalLineThenWinner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;tictactoe4x4.TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TicTacToeVariantSpec.whenPlayThenNoWinner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;tictactoe4x4.TicTacToeVariantSpec.whenPlayThenNoWinner&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TicTacToeVariantSpec" />
+        <item itemvalue="Gradle.TicTacToeVariantSpec.whenPlayAndDiagonalLineFromBottomToTopThenWinner" />
+        <item itemvalue="Gradle.TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" />
+        <item itemvalue="Gradle.TicTacToeVariantSpec.whenPlayAndWholeHorizontalLineThenWinner" />
+        <item itemvalue="Gradle.TicTacToeVariantSpec.whenPlayThenNoWinner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab21624d-aef7-4c7d-ba6b-3eafb3ffd848" name="Default Changelist" comment="" />
+      <created>1563259264202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563259264202</updated>
+      <workItem from="1565775696000" duration="221000" />
+      <workItem from="1565775935393" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TicTacToeVariantSpec - 2019.07.16 at 14h 40m 13s.xml">
+      <configuration name="TicTacToeVariantSpec" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec - 2019.07.16 at 14h 41m 50s.xml">
+      <configuration name="TicTacToeVariantSpec" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec - 2019.07.16 at 14h 43m 02s.xml">
+      <configuration name="TicTacToeVariantSpec" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec - 2019.07.16 at 14h 43m 36s.xml">
+      <configuration name="TicTacToeVariantSpec" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec_whenPlayAndWholeVerticalLineThenWinner - 2019.07.16 at 14h 46m 10s.xml">
+      <configuration name="TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec_whenPlayAndWholeVerticalLineThenWinner - 2019.07.16 at 14h 48m 07s.xml">
+      <configuration name="TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec_whenPlayAndWholeVerticalLineThenWinner - 2019.07.16 at 14h 48m 41s.xml">
+      <configuration name="TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec_whenPlayAndWholeVerticalLineThenWinner - 2019.07.16 at 14h 49m 38s.xml">
+      <configuration name="TicTacToeVariantSpec.whenPlayAndWholeVerticalLineThenWinner" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec_whenPlayAndDiagonalLineFromBottomToTopThenWinner - 2019.07.16 at 14h 52m 35s.xml">
+      <configuration name="TicTacToeVariantSpec.whenPlayAndDiagonalLineFromBottomToTopThenWinner" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TicTacToeVariantSpec - 2019.07.16 at 14h 55m 11s.xml">
+      <configuration name="TicTacToeVariantSpec" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
